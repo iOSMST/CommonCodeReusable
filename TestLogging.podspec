@@ -11,9 +11,9 @@ Pod::Spec.new do |s|
  s.version      = "0.0.1"
  s.summary      = "test"
  s.description  = "test app"
- s.homepage     = "http://www.raywenderlich.com"
+ s.homepage     = "http://www.mindsparktechnologies.com"
  s.license      = "MIT"
- s.author      = "iniyarajan"
+ s.author      = "Jegatheesh"
  s.platform     = :ios, "8.0" 
  s.source       = { :git => "https://github.com/iOSMST/CommonCodeReusable.git", :tag => "0.0.1" }
  s.source_files = "TestLogging/*.swift"
